@@ -1,0 +1,23 @@
+.component-container {
+  padding: 20px;
+  border: 20px solid #ffffff;
+  border-radius: 10px;
+  max-width: 800px;
+  width: 100%;
+  background-color: #e0f7fa;
+  position: relative;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  overflow: hidden;
+  box-sizing: border-box; /* ensures padding/border are counted in width */
+}
+
+.output-text {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: pre-wrap; /* preserves newlines */
+  width: 100%;
+  display: block;
+}
