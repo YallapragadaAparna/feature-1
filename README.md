@@ -1,5 +1,5 @@
 ### SmartCart AI: Multi-Agent System for Personalized E-Commerce  
-(Here the video is uploaded if you want to see the video download that then you can saw the video)
+(In the repository the video is uploaded if you want to see the video download that then you can saw the video)
 
 I built a smart e-commerce system that gives personalized product recommendations using a multi-agent AI setup with Ollama LLMs and  SQLite database
 
